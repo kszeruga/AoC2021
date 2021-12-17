@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Day14_2": {
+      "commandName": "Project",
+      "commandLineArgs": ">output2.txt <input.txt",
+      "workingDirectory": "C:\\Users\\Krzysiek\\source\\repos\\AoC2021\\Day14_2\\bin\\Release\\net6.0"
+    }
+  }
+}

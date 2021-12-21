@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Day20_1": {
+      "commandName": "Project",
+      "commandLineArgs": "<C:\\Users\\Krzysiek\\source\\repos\\AoC2021\\Day20_1\\input.txt"
+    }
+  }
+}
